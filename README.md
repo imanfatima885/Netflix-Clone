@@ -2,7 +2,6 @@
 
 A simple Netflix landing page clone built using HTML and CSS. This project replicates the UI of Netflix’s homepage, including the hero section, feature sections, FAQ, and footer.
 
----
 
 ##  Features
 
@@ -13,7 +12,6 @@ A simple Netflix landing page clone built using HTML and CSS. This project repli
 * Styled footer with multiple links
 * Clean and structured layout
 
----
 
 ##  Technologies Used
 
@@ -22,7 +20,6 @@ A simple Netflix landing page clone built using HTML and CSS. This project repli
 * Google Fonts
 * Font Awesome Icons
 
----
 
 ##  Project Structure
 
@@ -34,21 +31,18 @@ Netflix-Clone/
     └── images/
 ```
 
----
 
 ##  How to Run
 
 1. Download or clone the repository
 2. Open `index.html` in your browser
 
----
 
 ##  Notes
 
 * This is a **frontend-only project** (no backend or functionality)
 * Used for practice and learning UI design
 
----
 
 ##  Future Improvements
 
@@ -56,7 +50,6 @@ Netflix-Clone/
 * Make login/signup pages
 * Connect with backend for real streaming features
 
----
 
 ##  Preview
 
