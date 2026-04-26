@@ -55,7 +55,6 @@ Netflix-Clone/
 
 A visually appealing Netflix homepage clone with responsive layout and modern UI design.
 
----
 
 ## 📄 License
 
